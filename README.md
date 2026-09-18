@@ -14,7 +14,7 @@ _Note_: PyRosetta can be installed following the instructions [here](http://pyro
 
 ## Download NbFold pretrained weight and unzip and copy the weight in trained_models/ensemble/
 Trained weight has been given. Download from [here]https://zenodo.org/records/22760546).
-1)	Trained weights for evaluating NbFold benchmark and IgFold dataset
+1)	Trained weights for evaluating NbFold benchmark and IgFold benchmark
 
 
 
