@@ -48,7 +48,7 @@ num_bins = 37
 dropout = 0.4
 
 epochs = 400
-batch_size = 2 #20 #16
+batch_size = 24 #20 #16
 lr = 0.01
 train_split = 0.9
 gradient_clip_val = 0.5
